@@ -11,4 +11,4 @@ Download the latest eMammal release. <a href="https://github.com/Smithsonian/eMa
 
 
 Windows
-Download the latest Wild.ID release. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/download/latest/EMammal_Desktop-0.9.18.exe">EMammal_Desktop.exe</a>
+Download the latest Wild.ID release. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/download/v0.9.18/EMammal_Desktop-0.9.18.exe">EMammal_Desktop.exe</a>
