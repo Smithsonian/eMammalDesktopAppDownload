@@ -8,9 +8,9 @@ eMammal is a data management system and archive for camera trap research project
 
 <strong>MacOS</strong>
 
-Download the latest eMammal release. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/latest">(EMammal_Desktop.dmg)</a>
+Download the latest eMammal release for MacOS. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/latest">(EMammal_Desktop.dmg)</a>
 
 
 <strong>Windows</strong>
 
-Download the latest Wild.ID release. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/latest">(EMammal_Desktop.exe)</a>
+Download the latest eMammal release for Windows OS. <a href="https://github.com/Smithsonian/eMammalDesktopAppDownload/releases/latest">(EMammal_Desktop.exe)</a>
